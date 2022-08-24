@@ -1,2 +1,2 @@
-# LQR
-Some papers on Logical Query Reason(LQR)
+# KBLQ
+Some papers about Logical Query on Knowledge Graphs (KBLQ)
