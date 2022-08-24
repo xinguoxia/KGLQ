@@ -1,2 +1,2 @@
-# KBLQ
-Some papers about Logical Query on Knowledge Graphs (KBLQ)
+# KGLQ
+Some papers about Logical Query on Knowledge Graphs (KGLQ)
