@@ -87,9 +87,9 @@ Thanks for your attention and kind words! We will update KGLQ later.
 
 ##### KDD
 
-- <a name="NewLook"></a> **(NewLook)** Lihui Liu, Boxin Du, Heng Ji, ChengXiang Zhai, Hanghang Tong. "**Neural-Answering Logical Queries on Knowledge Graphs**". **KDD 2021**. [paper](https://dl.acm.org/doi/10.1145/3447548.3467375)
+- <a name="kgTransformer"></a> **(kgTransformer)** Xiao Liu, Shiyu Zhao, Kai Su, Yukuo Cen, Jiezhong Qiu, Mengdi Zhang, Wei Wu, Yuxiao Dong, Jie Tang:. "**Mask and Reason: Pre-Training Knowledge Graph Transformers for Complex Logical Queries**". **KDD 2022**.
 
-- <a name="NewLook"></a> **(NewLook)** Lihui Liu, Boxin Du, Heng Ji, ChengXiang Zhai, Hanghang Tong. "**Neural-Answering Logical Queries on Knowledge Graphs**". **KDD 2021**. [paper](https://dl.acm.org/doi/10.1145/3447548.3467375)
+- <a name="LinE"></a> **(LinE)** Zijian Huang, Meng-Fen Chiang, Wang-Chien Lee. "**LinE: Logical Query Reasoning over Hierarchical Knowledge Graphs**". **KDD 2022**.
 
-- <a name="NewLook"></a> **(NewLook)** Lihui Liu, Boxin Du, Heng Ji, ChengXiang Zhai, Hanghang Tong. "**Neural-Answering Logical Queries on Knowledge Graphs**". **KDD 2021**. [paper](https://dl.acm.org/doi/10.1145/3447548.3467375)
+- <a name="SMORE"></a> **(SMORE)** Hongyu Ren, Hanjun Dai, Bo Dai, Xinyun Chen, Denny Zhou, Jure Leskovec, Dale Schuurmans. "**SMORE: Knowledge Graph Completion and Multi-hop Reasoning in Massive Knowledge Graphs**". **KDD 2022**. 
 
