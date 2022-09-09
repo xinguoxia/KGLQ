@@ -83,7 +83,7 @@ Thanks for your attention and kind words! We will update KGLQ later.
 
 ##### NAACL
 
-- <a name="BEUrRE"></a> **(BEUrRE)** Xuelu Chen, Michael Boratko, Muhao Chen, Shib Sankar Dasgupta, Xiang Lorraine Li, Andrew McCallum. "**Probabilistic Box Embeddings for Uncertain Knowledge Graph Reasoning**". **NAACL-HLT 2021**. [paper](https://www.aclweb.org/anthology/2021.naacl-main.68/) [code](https://github.com/stasl0217/beurre)
+- <a name="Query2Particles"></a> **(Query2Particles)** Jiaxin Bai, Zihao Wang, Hongming Zhang, Yangqiu Song. "**Query2Particles: Knowledge Graph Reasoning with Particle Embeddings**". **NAACL-HLT 2022 (Findings)**. [paper](https://aclanthology.org/2022.findings-naacl.207/) [code](https://github.com/hkust-knowcomp/query2particles)
 
 ##### KDD
 
