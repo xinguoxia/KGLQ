@@ -75,7 +75,7 @@ Thanks for your attention and kind words! We will update KGLQ later.
 
 - <a name="MLPMix"></a> **(MLPMix)** Alfonso Amayuelas, Shuai Zhang, Susie Xi Rao, Ce Zhang. "**Neural Methods for Logical Reasoning over Knowledge Graphs**". **ICLR 2022**. [paper](https://openreview.net/forum?id=tgcAoUVHRIB) [code](https://github.com/amayuelas/NNKGReasoning)
 
-- <a name="MLPMix"></a> **(MLPMix)** Dimitrios Alivanistos, Max Berrendorf, Michael Cochez, Mikhail Galkin. "**Query Embedding on Hyper-Relational Knowledge Graphs**". **ICLR 2022**. [paper](https://openreview.net/forum?id=4rLw09TgRw9) [code](https://github.com/DimitrisAlivas/StarQE)
+- <a name="StarQE"></a> **(StarQE)** Dimitrios Alivanistos, Max Berrendorf, Michael Cochez, Mikhail Galkin. "**Query Embedding on Hyper-Relational Knowledge Graphs**". **ICLR 2022**. [paper](https://openreview.net/forum?id=4rLw09TgRw9) [code](https://github.com/DimitrisAlivas/StarQE)
 
 ##### ICML
 
